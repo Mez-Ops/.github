@@ -6,7 +6,7 @@ We are a small team of 1 developer and 1 UI/UX designer.
 
 Lead developer: [Tyler Jewell](https://github.com/tyler-jewell)
 
-Leade UI/UX designer: Barbara Jewell
+Lead UI/UX designer: Barbara Jewell
 
 This readme is focused on the developer and contains all of our best practices when it comes to developing application for Mez Ops.
 
