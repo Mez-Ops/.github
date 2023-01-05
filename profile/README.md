@@ -6,6 +6,8 @@ We are a small team of 1 developer and 1 UI/UX designer.
 
 Lead developer: [Tyler Jewell](https://github.com/tyler-jewell)
 
+Leade UI/UX designer: Barbara Jewell
+
 This readme is focused on the developer and contains all of our best practices when it comes to developing application for Mez Ops.
 
 # Development 10 Commandments
@@ -17,7 +19,7 @@ This readme is focused on the developer and contains all of our best practices w
 5. Branches shall be named with {user}/{issueTitleCleaned} (i.e., tyler-jewell/fix-a-bug)
 6. Pull request titles must be the same as the issue title it is tied to
 
-# Development Process
+# Development and Deployment Process
 
 1. Create [GitHub issue](#creating-issues) (manual)
 2. [Issue assigned](#assigning-an-issue-to-yourself) and branch created off main (manual)
@@ -31,6 +33,9 @@ This readme is focused on the developer and contains all of our best practices w
 10. Release is created from the new tag (automatic)
 11. Artifacts built (apk, .ipa, etc.) (automatic)
 12. App is published to appropriate repo or stores (pub.dev, Apple Store, Google Play Store, Firebase Hosting, etc.) (semi-automatic)
+
+![image](https://user-images.githubusercontent.com/72859335/210781207-682a5418-7a12-4344-b00b-bbe8240f377f.png)
+
 
 ## Assigning an issue to yourself
 
