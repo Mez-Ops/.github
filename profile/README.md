@@ -21,18 +21,18 @@ This readme is focused on the developer and contains all of our best practices w
 
 # Development and Deployment Process
 
-1. Create [GitHub issue](#creating-issues) (manual)
-2. [Issue assigned](#assigning-an-issue-to-yourself) and branch created off main (manual)
-3. Commit(s) are made to the issue branch (manual)
-4. Pull request is created to merge the issue branch into main (manual)
-5. Linting, unit tests, and semantic versioning checks are ran to ensure code quality and best practices (automatic)
-6. Pull request is squashed into one commit (the issue title) and merged into main (manual)
-7. Version files are bumped to the next semantic version (automatic)
-8. Changelog is updated to document the work that was done for the latest version (automatic)
-9. A tag is created and pushed to the repo (automatic)
-10. Release is created from the new tag (automatic)
-11. Artifacts built (apk, .ipa, etc.) (automatic)
-12. App is published to appropriate repo or stores (pub.dev, Apple Store, Google Play Store, Firebase Hosting, etc.) (semi-automatic)
+1. [GitHub issue](#creating-issues) (manual) 📝
+2. [Issue assigned](#assigning-an-issue-to-yourself)  and branch created off main (manual) 📅
+3. Commit(s) are made to the issue branch (manual) 💻
+4. Pull request is created to merge the issue branch into main (manual) 📥
+5. Linting, unit tests, and semantic versioning checks are ran to ensure code quality and best practices (automatic) 🧪
+6. Pull request is squashed into one commit (the issue title) and merged into main (manual) 🛠️
+7. Version files are bumped to the next semantic version (automatic) 📈
+8. Changelog is updated to document the work that was done for the latest version (automatic) 📝
+9. A tag is created and pushed to the repo (automatic) 🏷️
+10. Release is created from the new tag (automatic) 🚀
+11. Artifacts built (apk, .ipa, etc.) (automatic) 📦
+12. App is published to appropriate repo or stores (pub.dev, Apple Store, Google Play Store, Firebase Hosting, etc.) (semi-automatic) 🌍
 
 ![image](https://user-images.githubusercontent.com/72859335/210781207-682a5418-7a12-4344-b00b-bbe8240f377f.png)
 
